@@ -6,7 +6,7 @@ namespace Home_work1
     {
         static void Main(string[] args)
         {
-            //1. Найти минимальный элемент массива.
+            //1. Найти минимальный элемент массива..
 
 
 
