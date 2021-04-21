@@ -37,6 +37,7 @@ namespace Home_work4
 
             }
             Console.WriteLine($"Индекс максимального элемента массива {maxIndex}");
+            Console.ReadKey();
 
         }
     }

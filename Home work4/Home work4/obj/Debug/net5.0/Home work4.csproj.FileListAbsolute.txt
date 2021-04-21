@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work4\Home work4\bin\Debug\net5.0\Home work4.exe
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work4\Home work4\bin\Debug\net5.0\Home work4.deps.json
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work4\Home work4\bin\Debug\net5.0\Home work4.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work4\Home work4\bin\Debug\net5.0\Home work4.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work4\Home work4\bin\Debug\net5.0\Home work4.dll
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work4\Home work4\bin\Debug\net5.0\ref\Home work4.dll
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work4\Home work4\bin\Debug\net5.0\Home work4.pdb
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work4\Home work4\obj\Debug\net5.0\Home work4.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work4\Home work4\obj\Debug\net5.0\Home work4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work4\Home work4\obj\Debug\net5.0\Home work4.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work4\Home work4\obj\Debug\net5.0\Home work4.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work4\Home work4\obj\Debug\net5.0\Home work4.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work4\Home work4\obj\Debug\net5.0\Home work4.dll
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work4\Home work4\obj\Debug\net5.0\ref\Home work4.dll
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work4\Home work4\obj\Debug\net5.0\Home work4.pdb
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work4\Home work4\obj\Debug\net5.0\Home work4.genruntimeconfig.cache

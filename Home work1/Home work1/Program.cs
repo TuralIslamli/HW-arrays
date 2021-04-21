@@ -6,7 +6,7 @@ namespace Home_work1
     {
         static void Main(string[] args)
         {
-            //1. Найти минимальный элемент массива..
+            //1. Найти минимальный элемент массива.
 
 
 
@@ -22,6 +22,11 @@ namespace Home_work1
                 Console.WriteLine($"Число {i + 1} равно {m[i]}");
                 min = m[i];
 
+            }
+
+            foreach (int nums in m)
+            {
+                Console.WriteLine(nums);
             }
             for (int j = 0; j < m.Length; j++)
             {

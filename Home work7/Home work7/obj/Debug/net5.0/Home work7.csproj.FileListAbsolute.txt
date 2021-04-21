@@ -13,3 +13,19 @@ C:\Users\User\OneDrive\Рабочий стол\HW arrays\Home work7\Home work7\o
 C:\Users\User\OneDrive\Рабочий стол\HW arrays\Home work7\Home work7\obj\Debug\net5.0\ref\Home work7.dll
 C:\Users\User\OneDrive\Рабочий стол\HW arrays\Home work7\Home work7\obj\Debug\net5.0\Home work7.pdb
 C:\Users\User\OneDrive\Рабочий стол\HW arrays\Home work7\Home work7\obj\Debug\net5.0\Home work7.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work7\Home work7\bin\Debug\net5.0\Home work7.exe
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work7\Home work7\bin\Debug\net5.0\Home work7.deps.json
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work7\Home work7\bin\Debug\net5.0\Home work7.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work7\Home work7\bin\Debug\net5.0\Home work7.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work7\Home work7\bin\Debug\net5.0\Home work7.dll
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work7\Home work7\bin\Debug\net5.0\ref\Home work7.dll
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work7\Home work7\bin\Debug\net5.0\Home work7.pdb
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work7\Home work7\obj\Debug\net5.0\Home work7.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work7\Home work7\obj\Debug\net5.0\Home work7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work7\Home work7\obj\Debug\net5.0\Home work7.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work7\Home work7\obj\Debug\net5.0\Home work7.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work7\Home work7\obj\Debug\net5.0\Home work7.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work7\Home work7\obj\Debug\net5.0\Home work7.dll
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work7\Home work7\obj\Debug\net5.0\ref\Home work7.dll
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work7\Home work7\obj\Debug\net5.0\Home work7.pdb
+C:\Users\User\OneDrive\Рабочий стол\HW-arrays\Home work7\Home work7\obj\Debug\net5.0\Home work7.genruntimeconfig.cache
