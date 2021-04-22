@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\HW arrays\\Home work 6\\Home work 6\\Home work 6.csproj",
-      "projectName": "Home work 6",
-      "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\HW arrays\\Home work 6\\Home work 6\\Home work 6.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\HW-arrays\\Home work6\\Home work6\\Home work6..csproj",
+      "projectName": "Home work6.",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\HW-arrays\\Home work6\\Home work6\\Home work6..csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\HW arrays\\Home work 6\\Home work 6\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\HW-arrays\\Home work6\\Home work6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

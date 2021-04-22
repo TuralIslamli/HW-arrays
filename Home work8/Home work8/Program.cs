@@ -60,7 +60,7 @@ namespace Home_work8
                     }
                     else
                     {
-                        b[k] = m[j];
+                        b[k] = m[j+1];
                         c[k / 2] = m[j / 2 + 1];
                         k++;
                     }
