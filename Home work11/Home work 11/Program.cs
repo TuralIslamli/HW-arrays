@@ -7,7 +7,26 @@ namespace Home_work_11
         static void Main(string[] args)
         {
             Console.WriteLine("Укажите имя первого пользователя:");
-            string nameUser1 = Console.ReadLine();
+            string nameUser1;
+            bool result;
+            for (int i = 0; ; i++)
+            {
+                 nameUser1 = Console.ReadLine();
+
+                for (int j = 0; j < nameUser1.Length; j++)
+                {
+                    if (nameUser1[i]>='0' && nameUser1[i]<='9' )
+                    {
+                        result = false;
+                    }
+                    else
+                    {
+                       result = true;
+                    }
+                }
+            }
+            
+            
             Console.WriteLine("Укажите возраст первого пользователя:");
             int ageUser1 = 0;
             for (int i = 0; ; i++)

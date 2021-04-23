@@ -9,15 +9,15 @@ namespace Home_work8
             Console.WriteLine("Укажите длину массива.");
             int n = Convert.ToInt32(Console.ReadLine());
             int[] m = new int[n];
-            int[] a= new int [n/2];
-            int[] b = new int[n/2];
+            int[] a = new int[n / 2];
+            int[] b = new int[n / 2];
             int[] c = new int[1];
- 
+
 
             for (int i = 0; i < m.Length; i++)
             {
-                Console.WriteLine($"Укажите число {i+1}");
-                m[i] =Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine($"Укажите число {i + 1}");
+                m[i] = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine($"Число {i + 1} равно {m[i]}");
 
             }
@@ -31,7 +31,7 @@ namespace Home_work8
 
 
 
-            if (n%2==0)
+            if (n % 2 == 0)
             {
                 int k = 0;
                 for (int j = 0; j < m.Length; j++)
@@ -52,7 +52,7 @@ namespace Home_work8
             else
             {
                 int k = 0;
-                for (int j = 0; j < m.Length-1; j++)
+                for (int j = 0; j < m.Length - 1; j++)
                 {
                     if (j < a.Length)
                     {
@@ -60,7 +60,7 @@ namespace Home_work8
                     }
                     else
                     {
-                        b[k] = m[j+1];
+                        b[k] = m[j];
                         c[k / 2] = m[j / 2 + 1];
                         k++;
                     }
@@ -70,6 +70,7 @@ namespace Home_work8
                 foreach (int nums in a) { Console.WriteLine(nums); }
             }
             Console.ReadKey();
+
         }
     }
 }
